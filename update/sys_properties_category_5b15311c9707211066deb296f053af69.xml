@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-22 18:26:07</sys_created_on>
+        <sys_id>5b15311c9707211066deb296f053af69</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_5b15311c9707211066deb296f053af69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-22 18:26:26</sys_updated_on>
+        <title><![CDATA[<p><img title="99cf1aafe08f195647f6b2eb23d704132.jpg" src="/sys_attachment.do?sys_id&#61;e985b9989707211066deb296f053af4e" alt="" width="121" height="121" /></p>
+<p><strong>dinosaur </strong>with a <em>mushroom hat</em></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=5b15311c9707211066deb296f053af69"/>
+</record_update>
